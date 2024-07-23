@@ -1,6 +1,6 @@
-## Explain code
+## Explain code calculateTax
 
-1. function `calculateTax` accepts three parameters: `income`, `age`, and `dependents`.
+1. Function `calculateTax` accepts three parameters: `income`, `age`, and `dependents`.
 
 2. Check that the `income` value is valid, that is the value is bigger than 0 and is of type number. If invalid, `return "Invalid income"`.
 

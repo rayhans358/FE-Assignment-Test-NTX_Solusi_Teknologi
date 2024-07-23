@@ -1,6 +1,6 @@
-## Explain code
+## Explain code calculateShippingCost
 
-1. function `calculateShippingCost` accepts three parameters: `destination`, `weight`, and `priority`.
+1. Function `calculateShippingCost` accepts three parameters: `destination`, `weight`, and `priority`.
 
 2. Check that the `destination` value is valid, that is the value is "domestic" or "international". If invalid, `return "Invalid destination"`.
 
